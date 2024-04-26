@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +34,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
+              "RelativeDocumentMoniker": "Library\\Form1.cs",
+              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
+              "RelativeToolTip": "Library\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:54:48.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
@@ -37,7 +54,7 @@
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs [Design]",
               "RelativeToolTip": "Library\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T17:45:32.488Z",
+              "WhenOpened": "2024-04-26T20:08:55.688Z",
               "EditorCaption": " [Design]"
             }
           ]

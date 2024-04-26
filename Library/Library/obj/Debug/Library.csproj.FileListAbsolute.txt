@@ -1,0 +1,12 @@
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\Library.exe.config
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\Library.exe
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\Library.pdb
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\Siticone.Desktop.UI.dll
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Form1.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.csproj.Up2Date
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.exe
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.pdb

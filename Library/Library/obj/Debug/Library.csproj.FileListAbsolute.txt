@@ -10,3 +10,19 @@ D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Li
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.csproj.Up2Date
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.exe
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.pdb
+D:\FCI\Library-Management-System\Library\Library\bin\Debug\Library.exe.config
+D:\FCI\Library-Management-System\Library\Library\bin\Debug\Library.exe
+D:\FCI\Library-Management-System\Library\Library\bin\Debug\Library.pdb
+D:\FCI\Library-Management-System\Library\Library\bin\Debug\Siticone.Desktop.UI.dll
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.Form1.resources
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.csproj.Up2Date
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.exe
+D:\FCI\Library-Management-System\Library\Library\obj\Debug\Library.pdb
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmBorrow.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmChargebook.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmAddbook.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmReturn.resources

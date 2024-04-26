@@ -55,10 +55,46 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBorrow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBorrow.Designer.cs">
+      <DependentUpon>frmBorrow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChargebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChargebook.Designer.cs">
+      <DependentUpon>frmChargebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLibrarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLibrarian.Designer.cs">
+      <DependentUpon>frmLibrarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReturn.Designer.cs">
+      <DependentUpon>frmReturn.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBorrow.resx">
+      <DependentUpon>frmBorrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChargebook.resx">
+      <DependentUpon>frmChargebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLibrarian.resx">
+      <DependentUpon>frmLibrarian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReturn.resx">
+      <DependentUpon>frmReturn.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -92,6 +128,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-cross-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-book-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-borrow-book-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-return-book-50.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -31,15 +31,18 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
             this.PnlNav = new System.Windows.Forms.Panel();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.BtnAnalytics = new System.Windows.Forms.Button();
-            this.BtnDashboard = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.PnlFormLoader = new System.Windows.Forms.Panel();
+            this.lblTitle = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.btnReturn = new System.Windows.Forms.Button();
+            this.btnBorrow = new System.Windows.Forms.Button();
+            this.BtnChargebook = new System.Windows.Forms.Button();
+            this.BtnAddbook = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -49,10 +52,10 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
             this.panel1.Controls.Add(this.PnlNav);
-            this.panel1.Controls.Add(this.button3);
-            this.panel1.Controls.Add(this.button2);
-            this.panel1.Controls.Add(this.BtnAnalytics);
-            this.panel1.Controls.Add(this.BtnDashboard);
+            this.panel1.Controls.Add(this.btnReturn);
+            this.panel1.Controls.Add(this.btnBorrow);
+            this.panel1.Controls.Add(this.BtnChargebook);
+            this.panel1.Controls.Add(this.BtnAddbook);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -67,75 +70,6 @@
             this.PnlNav.Name = "PnlNav";
             this.PnlNav.Size = new System.Drawing.Size(3, 100);
             this.PnlNav.TabIndex = 2;
-            // 
-            // button3
-            // 
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.button3.Image = global::Library.Properties.Resources.icons8_home_50;
-            this.button3.Location = new System.Drawing.Point(0, 518);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(186, 56);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "DashBoard";
-            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            this.button3.Leave += new System.EventHandler(this.button3_Leave);
-            // 
-            // button2
-            // 
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.button2.Image = global::Library.Properties.Resources.icons8_home_50;
-            this.button2.Location = new System.Drawing.Point(0, 297);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(186, 56);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "DashBoard";
-            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            this.button2.Leave += new System.EventHandler(this.button2_Leave);
-            // 
-            // BtnAnalytics
-            // 
-            this.BtnAnalytics.FlatAppearance.BorderSize = 0;
-            this.BtnAnalytics.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnAnalytics.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnAnalytics.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.BtnAnalytics.Image = global::Library.Properties.Resources.icons8_home_50;
-            this.BtnAnalytics.Location = new System.Drawing.Point(0, 235);
-            this.BtnAnalytics.Name = "BtnAnalytics";
-            this.BtnAnalytics.Size = new System.Drawing.Size(186, 56);
-            this.BtnAnalytics.TabIndex = 2;
-            this.BtnAnalytics.Text = "DashBoard";
-            this.BtnAnalytics.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.BtnAnalytics.UseVisualStyleBackColor = true;
-            this.BtnAnalytics.Click += new System.EventHandler(this.BtnAnalytics_Click);
-            this.BtnAnalytics.Leave += new System.EventHandler(this.BtnAnalytics_Leave);
-            // 
-            // BtnDashboard
-            // 
-            this.BtnDashboard.Dock = System.Windows.Forms.DockStyle.Top;
-            this.BtnDashboard.FlatAppearance.BorderSize = 0;
-            this.BtnDashboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnDashboard.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnDashboard.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.BtnDashboard.Image = global::Library.Properties.Resources.icons8_home_50;
-            this.BtnDashboard.Location = new System.Drawing.Point(0, 164);
-            this.BtnDashboard.Name = "BtnDashboard";
-            this.BtnDashboard.Size = new System.Drawing.Size(186, 65);
-            this.BtnDashboard.TabIndex = 1;
-            this.BtnDashboard.Text = "DashBoard";
-            this.BtnDashboard.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.BtnDashboard.UseVisualStyleBackColor = true;
-            this.BtnDashboard.Click += new System.EventHandler(this.BtnDashboard_Click);
-            this.BtnDashboard.Leave += new System.EventHandler(this.BtnDashboard_Leave);
             // 
             // panel2
             // 
@@ -153,11 +87,11 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(161)))), ((int)(((byte)(178)))));
-            this.label2.Location = new System.Drawing.Point(21, 127);
+            this.label2.Location = new System.Drawing.Point(57, 126);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(142, 16);
+            this.label2.Size = new System.Drawing.Size(68, 16);
             this.label2.TabIndex = 1;
-            this.label2.Text = "some user text here";
+            this.label2.Text = "Librarian";
             // 
             // label1
             // 
@@ -170,15 +104,36 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "UserName";
             // 
-            // pictureBox1
+            // PnlFormLoader
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(60, 22);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(63, 63);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.PnlFormLoader.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.PnlFormLoader.Location = new System.Drawing.Point(186, 100);
+            this.PnlFormLoader.Name = "PnlFormLoader";
+            this.PnlFormLoader.Size = new System.Drawing.Size(765, 477);
+            this.PnlFormLoader.TabIndex = 6;
+            // 
+            // lblTitle
+            // 
+            this.lblTitle.AutoSize = true;
+            this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(161)))), ((int)(((byte)(176)))));
+            this.lblTitle.Location = new System.Drawing.Point(210, 15);
+            this.lblTitle.Name = "lblTitle";
+            this.lblTitle.Size = new System.Drawing.Size(174, 39);
+            this.lblTitle.TabIndex = 7;
+            this.lblTitle.Text = "Add Book";
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(79)))), ((int)(((byte)(99)))));
+            this.textBox1.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.textBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(200)))), ((int)(((byte)(200)))));
+            this.textBox1.Location = new System.Drawing.Point(535, 29);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(245, 39);
+            this.textBox1.TabIndex = 8;
+            this.textBox1.Text = "search for something";
             // 
             // button1
             // 
@@ -195,12 +150,94 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
+            // btnReturn
+            // 
+            this.btnReturn.FlatAppearance.BorderSize = 0;
+            this.btnReturn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnReturn.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReturn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.btnReturn.Image = global::Library.Properties.Resources.icons8_return_book_50;
+            this.btnReturn.Location = new System.Drawing.Point(0, 359);
+            this.btnReturn.Name = "btnReturn";
+            this.btnReturn.Size = new System.Drawing.Size(186, 56);
+            this.btnReturn.TabIndex = 4;
+            this.btnReturn.Text = "Return      ";
+            this.btnReturn.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnReturn.UseVisualStyleBackColor = true;
+            this.btnReturn.Click += new System.EventHandler(this.button3_Click);
+            this.btnReturn.Leave += new System.EventHandler(this.button3_Leave);
+            // 
+            // btnBorrow
+            // 
+            this.btnBorrow.FlatAppearance.BorderSize = 0;
+            this.btnBorrow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBorrow.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBorrow.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.btnBorrow.Image = global::Library.Properties.Resources.icons8_borrow_book_50;
+            this.btnBorrow.Location = new System.Drawing.Point(0, 297);
+            this.btnBorrow.Name = "btnBorrow";
+            this.btnBorrow.Size = new System.Drawing.Size(186, 56);
+            this.btnBorrow.TabIndex = 3;
+            this.btnBorrow.Text = "Borrow      ";
+            this.btnBorrow.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnBorrow.UseVisualStyleBackColor = true;
+            this.btnBorrow.Click += new System.EventHandler(this.button2_Click);
+            this.btnBorrow.Leave += new System.EventHandler(this.button2_Leave);
+            // 
+            // BtnChargebook
+            // 
+            this.BtnChargebook.FlatAppearance.BorderSize = 0;
+            this.BtnChargebook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnChargebook.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnChargebook.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.BtnChargebook.Image = global::Library.Properties.Resources.icons8_book_50;
+            this.BtnChargebook.Location = new System.Drawing.Point(0, 235);
+            this.BtnChargebook.Name = "BtnChargebook";
+            this.BtnChargebook.Size = new System.Drawing.Size(186, 56);
+            this.BtnChargebook.TabIndex = 2;
+            this.BtnChargebook.Text = "Charge Book";
+            this.BtnChargebook.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.BtnChargebook.UseVisualStyleBackColor = true;
+            this.BtnChargebook.Click += new System.EventHandler(this.BtnAnalytics_Click);
+            this.BtnChargebook.Leave += new System.EventHandler(this.BtnAnalytics_Leave);
+            // 
+            // BtnAddbook
+            // 
+            this.BtnAddbook.Dock = System.Windows.Forms.DockStyle.Top;
+            this.BtnAddbook.FlatAppearance.BorderSize = 0;
+            this.BtnAddbook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnAddbook.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnAddbook.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.BtnAddbook.Image = global::Library.Properties.Resources.icons8_add_book_50;
+            this.BtnAddbook.Location = new System.Drawing.Point(0, 164);
+            this.BtnAddbook.Name = "BtnAddbook";
+            this.BtnAddbook.Size = new System.Drawing.Size(186, 65);
+            this.BtnAddbook.TabIndex = 1;
+            this.BtnAddbook.Text = "Add Book  ";
+            this.BtnAddbook.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.BtnAddbook.UseVisualStyleBackColor = true;
+            this.BtnAddbook.Click += new System.EventHandler(this.BtnDashboard_Click);
+            this.BtnAddbook.Leave += new System.EventHandler(this.BtnDashboard_Leave);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(60, 22);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(63, 63);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.ClientSize = new System.Drawing.Size(951, 577);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lblTitle);
+            this.Controls.Add(this.PnlFormLoader);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -213,6 +250,7 @@
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -223,12 +261,15 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button BtnDashboard;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button BtnAnalytics;
+        private System.Windows.Forms.Button BtnAddbook;
+        private System.Windows.Forms.Button btnReturn;
+        private System.Windows.Forms.Button btnBorrow;
+        private System.Windows.Forms.Button BtnChargebook;
         private System.Windows.Forms.Panel PnlNav;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Panel PnlFormLoader;
+        private System.Windows.Forms.Label lblTitle;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 

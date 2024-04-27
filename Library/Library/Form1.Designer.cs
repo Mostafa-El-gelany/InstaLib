@@ -36,7 +36,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.PnlFormLoader = new System.Windows.Forms.Panel();
             this.lblTitle = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btnReturn = new System.Windows.Forms.Button();
             this.btnBorrow = new System.Windows.Forms.Button();
@@ -123,18 +122,6 @@
             this.lblTitle.TabIndex = 7;
             this.lblTitle.Text = "Add Book";
             // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(79)))), ((int)(((byte)(99)))));
-            this.textBox1.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.textBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(200)))), ((int)(((byte)(200)))));
-            this.textBox1.Location = new System.Drawing.Point(535, 29);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(245, 39);
-            this.textBox1.TabIndex = 8;
-            this.textBox1.Text = "search for something";
-            // 
             // button1
             // 
             this.button1.FlatAppearance.BorderSize = 0;
@@ -161,7 +148,7 @@
             this.btnReturn.Name = "btnReturn";
             this.btnReturn.Size = new System.Drawing.Size(186, 56);
             this.btnReturn.TabIndex = 4;
-            this.btnReturn.Text = "Return      ";
+            this.btnReturn.Text = "Return Book ";
             this.btnReturn.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btnReturn.UseVisualStyleBackColor = true;
             this.btnReturn.Click += new System.EventHandler(this.button3_Click);
@@ -178,7 +165,7 @@
             this.btnBorrow.Name = "btnBorrow";
             this.btnBorrow.Size = new System.Drawing.Size(186, 56);
             this.btnBorrow.TabIndex = 3;
-            this.btnBorrow.Text = "Borrow      ";
+            this.btnBorrow.Text = "Borrow Book";
             this.btnBorrow.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btnBorrow.UseVisualStyleBackColor = true;
             this.btnBorrow.Click += new System.EventHandler(this.button2_Click);
@@ -235,7 +222,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.ClientSize = new System.Drawing.Size(951, 577);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.PnlFormLoader);
             this.Controls.Add(this.button1);
@@ -269,7 +255,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel PnlFormLoader;
         private System.Windows.Forms.Label lblTitle;
-        private System.Windows.Forms.TextBox textBox1;
     }
 }
 

@@ -92,7 +92,7 @@ namespace Library
             PnlNav.BackColor = Color.FromArgb(46, 51, 73);
 
 
-            lblTitle.Text = "Borrow";
+            lblTitle.Text = "Borrow Book";
             this.PnlFormLoader.Controls.Clear();
             frmBorrow frmLibrarian_Vrb = new frmBorrow() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;
@@ -108,7 +108,7 @@ namespace Library
             PnlNav.BackColor = Color.FromArgb(46, 51, 73);
 
 
-            lblTitle.Text = "return";
+            lblTitle.Text = "return Book";
             this.PnlFormLoader.Controls.Clear();
             frmReturn frmLibrarian_Vrb = new frmReturn() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;

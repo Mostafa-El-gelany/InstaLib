@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\frmchargebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,12 +39,8 @@
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "frmLibrarian.cs",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLibrarian.cs",
               "RelativeDocumentMoniker": "Library\\frmLibrarian.cs",
@@ -74,25 +74,24 @@
               "RelativeToolTip": "Library\\frmLibrarian.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAnwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T15:30:56.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T15:30:56.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Program.cs",
               "RelativeDocumentMoniker": "Library\\Program.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Program.cs",
               "RelativeToolTip": "Library\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T14:45:18.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
               "RelativeDocumentMoniker": "Library\\Form1.cs",
@@ -100,12 +99,11 @@
               "RelativeToolTip": "Library\\Form1.cs",
               "ViewState": "AQIAAJEAAAAAAAAAAAAWwKAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T14:30:24.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T14:30:24.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs",
               "RelativeDocumentMoniker": "Library\\Manager.cs",
@@ -113,80 +111,73 @@
               "RelativeToolTip": "Library\\Manager.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAewCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T14:19:02.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T14:19:02.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Manager.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs",
               "RelativeDocumentMoniker": "Library\\Manager.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs [Design]",
               "RelativeToolTip": "Library\\Manager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T14:16:14.076Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-27T14:16:14.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
               "RelativeDocumentMoniker": "Library\\Form1.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs [Design]",
               "RelativeToolTip": "Library\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T14:02:06.893Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-27T14:02:06.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "frmReturn.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmReturn.cs",
               "RelativeDocumentMoniker": "Library\\frmReturn.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmReturn.cs [Design]",
               "RelativeToolTip": "Library\\frmReturn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T23:02:09.084Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T23:02:09.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmBorrow.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmBorrow.cs",
               "RelativeDocumentMoniker": "Library\\frmBorrow.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmBorrow.cs [Design]",
               "RelativeToolTip": "Library\\frmBorrow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T22:59:39.956Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T22:59:39.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmChargebook.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmChargebook.cs",
               "RelativeDocumentMoniker": "Library\\frmChargebook.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmChargebook.cs [Design]",
               "RelativeToolTip": "Library\\frmChargebook.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T22:55:55.993Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T22:55:55.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmLibrarian.cs [Design]",
               "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLibrarian.cs",
               "RelativeDocumentMoniker": "Library\\frmLibrarian.cs",
               "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLibrarian.cs [Design]",
               "RelativeToolTip": "Library\\frmLibrarian.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T22:21:46.218Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T22:21:46.218Z"
             }
           ]
         }

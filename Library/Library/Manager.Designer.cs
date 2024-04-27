@@ -30,9 +30,11 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Manager));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnReturn = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblTitle = new System.Windows.Forms.Label();
             this.PnlFormLoader = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
@@ -47,18 +49,16 @@
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.button2 = new System.Windows.Forms.Button();
             this.panel5 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnReturn = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.PnlFormLoader.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -71,6 +71,21 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(186, 577);
             this.panel1.TabIndex = 1;
+            // 
+            // btnReturn
+            // 
+            this.btnReturn.FlatAppearance.BorderSize = 0;
+            this.btnReturn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnReturn.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReturn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.btnReturn.Image = global::Library.Properties.Resources.icons8_log_out_50;
+            this.btnReturn.Location = new System.Drawing.Point(0, 494);
+            this.btnReturn.Name = "btnReturn";
+            this.btnReturn.Size = new System.Drawing.Size(186, 71);
+            this.btnReturn.TabIndex = 5;
+            this.btnReturn.Text = "Log Out";
+            this.btnReturn.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnReturn.UseVisualStyleBackColor = true;
             // 
             // panel2
             // 
@@ -105,6 +120,16 @@
             this.label1.Size = new System.Drawing.Size(97, 20);
             this.label1.TabIndex = 1;
             this.label1.Text = "UserName";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(60, 22);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(63, 63);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // lblTitle
             // 
@@ -280,6 +305,22 @@
             this.radioButton2.Text = "Charge Book";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(45)))));
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.button2.Image = global::Library.Properties.Resources.icons8_report_50;
+            this.button2.Location = new System.Drawing.Point(232, 364);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(252, 80);
+            this.button2.TabIndex = 31;
+            this.button2.Text = "Create Report";
+            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.button2.UseVisualStyleBackColor = false;
+            // 
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(42)))), ((int)(((byte)(64)))));
@@ -306,47 +347,6 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(45)))));
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.button2.Image = global::Library.Properties.Resources.icons8_report_50;
-            this.button2.Location = new System.Drawing.Point(232, 364);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(252, 80);
-            this.button2.TabIndex = 31;
-            this.button2.Text = "Create Report";
-            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.button2.UseVisualStyleBackColor = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(60, 22);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(63, 63);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // btnReturn
-            // 
-            this.btnReturn.FlatAppearance.BorderSize = 0;
-            this.btnReturn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReturn.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReturn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.btnReturn.Image = global::Library.Properties.Resources.icons8_log_out_50;
-            this.btnReturn.Location = new System.Drawing.Point(0, 509);
-            this.btnReturn.Name = "btnReturn";
-            this.btnReturn.Size = new System.Drawing.Size(186, 56);
-            this.btnReturn.TabIndex = 5;
-            this.btnReturn.Text = "Log Out";
-            this.btnReturn.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.btnReturn.UseVisualStyleBackColor = true;
-            // 
             // Manager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -363,6 +363,7 @@
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.PnlFormLoader.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
@@ -370,7 +371,6 @@
             this.panel3.PerformLayout();
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }

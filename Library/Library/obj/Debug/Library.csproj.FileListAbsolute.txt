@@ -48,3 +48,25 @@ C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\bin
 C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.init.resources
 C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.UserBook.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\Library.exe.config
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\Library.exe
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\Library.pdb
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\EntityFramework.dll
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\Siticone.Desktop.UI.dll
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\EntityFramework.xml
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.Form1.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.frmBorrow.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.frmChargebook.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.frmAddbook.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.frmReturn.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.init.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.UserBook.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.csproj.Up2Date
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.exe
+D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.pdb

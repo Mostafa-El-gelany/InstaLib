@@ -77,3 +77,7 @@ D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\En
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.init.resources
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.UserBook.resources
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Manager.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Support.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmAddUser.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmDeleteUser.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmUpdateUser.resources

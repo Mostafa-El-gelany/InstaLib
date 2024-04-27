@@ -47,3 +47,4 @@ C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\bin
 C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\bin\Debug\EntityFramework.xml
 C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.init.resources
+C:\Users\mahmoud\Documents\library\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.UserBook.resources

@@ -1,26 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Library.Model
 {
-    public class Book
+    public enum Rule { Manager,IT,Librarian,Customer}
+    public class User
     {
-        [Key,Required]
-        public int Id { get; set; }
-        public string Title { get; set; }
-        public string author {  get; set; }
-        public string Publisher {  get; set; }
+        [Key]
+       public string Username {  get; set; }
+        public string Password {  get; set; }
+        public Rule rule {  get; set; }
         public List<UserBook> Borrows { get; set; }
-        
-        public Book()
+        public User() 
         {
 
         }
-        
+
 
     }
 }

@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\model\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|c:\\users\\mahmoud\\documents\\library\\library-management-system\\library\\library\\migrations\\202404271241484_userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\migrations\\202404271241484_userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\library\\model\\userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\model\\userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\library\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|c:\\users\\mahmoud\\documents\\library\\library-management-system\\library\\library\\migrations\\202404271150243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\migrations\\202404271150243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\library\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\library\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\library\\migrations\\202404271150243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\migrations\\202404271150243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,11 +54,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202404271241484_UserBook.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Migrations\\202404271241484_UserBook.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\202404271241484_UserBook.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Migrations\\202404271241484_UserBook.cs",
+              "RelativeToolTip": "Library\\Migrations\\202404271241484_UserBook.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:41:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserBook.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Model\\UserBook.cs",
+              "RelativeDocumentMoniker": "Library\\Model\\UserBook.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Model\\UserBook.cs",
+              "RelativeToolTip": "Library\\Model\\UserBook.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:28:20.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Library\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Model\\User.cs",
+              "RelativeToolTip": "Library\\Model\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:20:03.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "202404271150243_init.cs",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Migrations\\202404271150243_init.cs",
               "RelativeDocumentMoniker": "Library\\Migrations\\202404271150243_init.cs",
@@ -54,12 +103,11 @@
               "RelativeToolTip": "Library\\Migrations\\202404271150243_init.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:50:31.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T11:50:31.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Library\\Migrations\\Configuration.cs",
@@ -71,16 +119,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Model\\Book.cs",
               "RelativeDocumentMoniker": "Library\\Model\\Book.cs",
               "ToolTip": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\Model\\Book.cs",
               "RelativeToolTip": "Library\\Model\\Book.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:43:58.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T11:43:58.509Z"
             },
             {
               "$type": "Document",
@@ -97,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "frmReturn.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\frmReturn.cs",
               "RelativeDocumentMoniker": "Library\\frmReturn.cs",
@@ -108,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "frmBorrow.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\frmBorrow.cs",
               "RelativeDocumentMoniker": "Library\\frmBorrow.cs",
@@ -118,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "frmChargebook.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\frmChargebook.cs",
               "RelativeDocumentMoniker": "Library\\frmChargebook.cs",
@@ -128,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "frmLibrarian.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\library\\Library-Management-System\\Library\\Library\\frmLibrarian.cs",
               "RelativeDocumentMoniker": "Library\\frmLibrarian.cs",

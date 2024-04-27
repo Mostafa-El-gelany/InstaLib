@@ -81,3 +81,4 @@ D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Li
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmAddUser.resources
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmDeleteUser.resources
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmUpdateUser.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmLogin.resources

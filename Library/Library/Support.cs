@@ -55,7 +55,7 @@ namespace Library
             PnlNav.Top = btnUpdateUser.Top;
             PnlNav.Left = btnUpdateUser.Left;
             PnlNav.BackColor = Color.FromArgb(46, 51, 73);
-            lblTitle.Text = "Update User";
+            lblTitle.Text = "Change Password";
             this.panel3.Controls.Clear();
             frmUpdateUser frmLibrarian_Vrb = new frmUpdateUser() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;
@@ -104,6 +104,11 @@ namespace Library
         private void btnUpdateUser_Leave(object sender, EventArgs e)
         {
             btnUpdateUser.BackColor = Color.FromArgb(24, 30, 54);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

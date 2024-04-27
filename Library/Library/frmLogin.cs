@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace Library
 {
-    public partial class frmReturn : Form
+    public partial class frmLogin : Form
     {
-        public frmReturn()
+        public frmLogin()
         {
             InitializeComponent();
         }
 
-        private void btnReturn_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

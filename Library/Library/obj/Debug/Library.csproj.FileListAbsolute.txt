@@ -70,3 +70,10 @@ D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\
 D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.csproj.Up2Date
 D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.exe
 D:\FCI\Visual programming\visual task\Library-Management-System\Library\Library\obj\Debug\Library.pdb
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\EntityFramework.dll
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\EntityFramework.xml
+D:\FCI\Visual programming\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.init.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.UserBook.resources
+D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.Manager.resources

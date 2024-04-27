@@ -155,5 +155,10 @@ namespace Library
         {
             this.Close();
         }
+
+        private void PnlFormLoader_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

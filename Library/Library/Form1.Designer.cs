@@ -42,9 +42,11 @@
             this.BtnChargebook = new System.Windows.Forms.Button();
             this.BtnAddbook = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -110,13 +112,14 @@
             this.PnlFormLoader.Name = "PnlFormLoader";
             this.PnlFormLoader.Size = new System.Drawing.Size(765, 477);
             this.PnlFormLoader.TabIndex = 6;
+            this.PnlFormLoader.Paint += new System.Windows.Forms.PaintEventHandler(this.PnlFormLoader_Paint);
             // 
             // lblTitle
             // 
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(161)))), ((int)(((byte)(176)))));
-            this.lblTitle.Location = new System.Drawing.Point(210, 15);
+            this.lblTitle.Location = new System.Drawing.Point(34, 32);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(174, 39);
             this.lblTitle.TabIndex = 7;
@@ -129,7 +132,7 @@
             this.button1.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
             this.button1.Image = global::Library.Properties.Resources.icons8_cross_48;
-            this.button1.Location = new System.Drawing.Point(884, 8);
+            this.button1.Location = new System.Drawing.Point(707, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(55, 46);
             this.button1.TabIndex = 5;
@@ -216,15 +219,26 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(42)))), ((int)(((byte)(64)))));
+            this.panel3.Controls.Add(this.button1);
+            this.panel3.Controls.Add(this.lblTitle);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.ForeColor = System.Drawing.Color.White;
+            this.panel3.Location = new System.Drawing.Point(186, 0);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(765, 577);
+            this.panel3.TabIndex = 46;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.ClientSize = new System.Drawing.Size(951, 577);
-            this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.PnlFormLoader);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
@@ -235,8 +249,9 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -255,6 +270,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel PnlFormLoader;
         private System.Windows.Forms.Label lblTitle;
+        private System.Windows.Forms.Panel panel3;
     }
 }
 

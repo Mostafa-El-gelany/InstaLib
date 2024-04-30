@@ -6,8 +6,9 @@ using System.Windows.Forms;
 
 namespace Library
 {
-    internal static class Program
+    public static class Program
     {
+        public static Form cur=null, next=null;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -16,7 +17,13 @@ namespace Library
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLogin());
+            cur = new frmLogin();
+            while(cur != null)
+            {
+                Application.Run(cur);
+                cur = next;
+                next = null;
+            }
         }
     }
 }

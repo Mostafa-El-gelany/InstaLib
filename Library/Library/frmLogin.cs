@@ -21,5 +21,10 @@ namespace Library
         {
             this.Close();
         }
+        private void btnReturn_Click(object sender, EventArgs e)
+        {
+            Program.next = new Form1();
+            this.Close();
+        }
     }
 }

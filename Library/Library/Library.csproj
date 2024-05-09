@@ -59,41 +59,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Librarian\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Librarian\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmAddUser.cs">
+    <Compile Include="IT\frmAddUser.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmAddUser.Designer.cs">
+    <Compile Include="IT\frmAddUser.Designer.cs">
       <DependentUpon>frmAddUser.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmBorrow.cs">
+    <Compile Include="Librarian\frmBorrow.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmBorrow.Designer.cs">
+    <Compile Include="Librarian\frmBorrow.Designer.cs">
       <DependentUpon>frmBorrow.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmChargebook.cs">
+    <Compile Include="Librarian\frmChargebook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmChargebook.Designer.cs">
+    <Compile Include="Librarian\frmChargebook.Designer.cs">
       <DependentUpon>frmChargebook.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDeleteUser.cs">
+    <Compile Include="Librarian\frmAddBook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmDeleteUser.Designer.cs">
-      <DependentUpon>frmDeleteUser.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmLibrarian.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmLibrarian.Designer.cs">
-      <DependentUpon>frmLibrarian.cs</DependentUpon>
+    <Compile Include="Librarian\frmAddBook.Designer.cs">
+      <DependentUpon>frmAddBook.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -101,31 +95,33 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmReturn.cs">
+    <Compile Include="Librarian\frmReturn.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmReturn.Designer.cs">
+    <Compile Include="Librarian\frmReturn.Designer.cs">
       <DependentUpon>frmReturn.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmUpdateUser.cs">
+    <Compile Include="IT\frmDeleteUser.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmUpdateUser.Designer.cs">
+    <Compile Include="IT\frmDeleteUser.Designer.cs">
+      <DependentUpon>frmDeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT\frmUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IT\frmUpdateUser.Designer.cs">
       <DependentUpon>frmUpdateUser.cs</DependentUpon>
     </Compile>
-    <Compile Include="Manager.cs">
+    <Compile Include="Manager\Manager.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Manager.Designer.cs">
+    <Compile Include="Manager\Manager.Designer.cs">
       <DependentUpon>Manager.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202404271150243_init.cs" />
-    <Compile Include="Migrations\202404271150243_init.Designer.cs">
-      <DependentUpon>202404271150243_init.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202404271241484_UserBook.cs" />
-    <Compile Include="Migrations\202404271241484_UserBook.Designer.cs">
-      <DependentUpon>202404271241484_UserBook.cs</DependentUpon>
+    <Compile Include="Migrations\202405091351147_init.cs" />
+    <Compile Include="Migrations\202405091351147_init.Designer.cs">
+      <DependentUpon>202405091351147_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Book.cs" />
@@ -134,47 +130,44 @@
     <Compile Include="Model\UserBook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Support.cs">
+    <Compile Include="IT\Support.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Support.Designer.cs">
+    <Compile Include="IT\Support.Designer.cs">
       <DependentUpon>Support.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Librarian\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmAddUser.resx">
+    <EmbeddedResource Include="IT\frmAddUser.resx">
       <DependentUpon>frmAddUser.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmBorrow.resx">
+    <EmbeddedResource Include="Librarian\frmBorrow.resx">
       <DependentUpon>frmBorrow.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmChargebook.resx">
+    <EmbeddedResource Include="Librarian\frmChargebook.resx">
       <DependentUpon>frmChargebook.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmDeleteUser.resx">
-      <DependentUpon>frmDeleteUser.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmLibrarian.resx">
-      <DependentUpon>frmLibrarian.cs</DependentUpon>
+    <EmbeddedResource Include="Librarian\frmAddBook.resx">
+      <DependentUpon>frmAddBook.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmReturn.resx">
+    <EmbeddedResource Include="Librarian\frmReturn.resx">
       <DependentUpon>frmReturn.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmUpdateUser.resx">
+    <EmbeddedResource Include="IT\frmDeleteUser.resx">
+      <DependentUpon>frmDeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IT\frmUpdateUser.resx">
       <DependentUpon>frmUpdateUser.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Manager.resx">
+    <EmbeddedResource Include="Manager\Manager.resx">
       <DependentUpon>Manager.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202404271150243_init.resx">
-      <DependentUpon>202404271150243_init.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202404271241484_UserBook.resx">
-      <DependentUpon>202404271241484_UserBook.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202405091351147_init.resx">
+      <DependentUpon>202405091351147_init.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -186,7 +179,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Support.resx">
+    <EmbeddedResource Include="IT\Support.resx">
       <DependentUpon>Support.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
@@ -269,6 +262,7 @@
   <ItemGroup>
     <None Include="Resources\user-interface.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

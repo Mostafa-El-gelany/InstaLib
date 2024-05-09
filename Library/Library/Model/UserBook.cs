@@ -10,10 +10,13 @@ namespace Library.Model
 {
     public class UserBook
     {
-        [Key,Column(Order =1)]
+        public int ID { get; set; }
+        [ForeignKey("User")]
         public string UserId { get; set; }
-        [Key,Column(Order =2)]
-        public int BookId {  get; set; }
+        
+        [ForeignKey("book")]
+        public long BookId {  get; set; }
+        
         public DateTime DateOfBorrowing { get; set; }
         public bool IsReturned {  get; set; }
         public UserBook() 
@@ -21,8 +24,14 @@ namespace Library.Model
             DateOfBorrowing = DateTime.Now;
             IsReturned = false;
         }
-        public Book book { get; set; }
-        public User User { get; set; }
+        
+        public virtual Book book { get; set; }
+       
+        public virtual User User { get; set; }
+        public override string ToString()
+        {
+            return "username is " + User.Username + " book name is " + book.Title;
+        }
 
     }
 }

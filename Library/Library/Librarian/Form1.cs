@@ -8,11 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using Library.Model;
 
 namespace Library
 {
     public partial class Form1 : Form
     {
+        private readonly User user;
+        private Context Context;
+
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
             (
@@ -24,9 +28,10 @@ namespace Library
             int nHeightEllipse
             );
 
-        public Form1()
+        public Form1(User user)
         {
             InitializeComponent();
+            this.Context = new Context();
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 25, 25));
             PnlNav.Height = BtnAddbook.Height;
             PnlNav.Top = BtnAddbook.Top;
@@ -41,6 +46,7 @@ namespace Library
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;
             this.PnlFormLoader.Controls.Add(frmLibrarian_Vrb);
             frmLibrarian_Vrb.Show();
+            this.user = user;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -98,6 +104,7 @@ namespace Library
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;
             this.PnlFormLoader.Controls.Add(frmLibrarian_Vrb);
             frmLibrarian_Vrb.Show();
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -163,7 +170,8 @@ namespace Library
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            Program.next = new frmLogin();
+           Program.CurentUser = null;
+            Program.next =new  frmLogin();
             this.Close();
         }
     }

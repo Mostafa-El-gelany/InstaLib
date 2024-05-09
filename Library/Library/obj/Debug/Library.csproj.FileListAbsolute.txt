@@ -82,3 +82,30 @@ D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Li
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmDeleteUser.resources
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmUpdateUser.resources
 D:\FCI\Visual programming\Library-Management-System\Library\Library\obj\Debug\Library.frmLogin.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\Library.exe.config
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\Library.exe
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\Library.pdb
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\EntityFramework.dll
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\Siticone.Desktop.UI.dll
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\EntityFramework.xml
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.Form1.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmAddUser.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmBorrow.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmChargebook.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmDeleteUser.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmAddbook.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmLogin.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmReturn.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.frmUpdateUser.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.Manager.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.Properties.Resources.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.Support.resources
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.csproj.Up2Date
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.exe
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.pdb
+F:\FCI\Library Management studio\Library-Management-System\Library\Library\obj\Debug\Library.Migrations.init.resources

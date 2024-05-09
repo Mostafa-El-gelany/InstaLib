@@ -117,7 +117,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(42, 16);
             this.label3.TabIndex = 15;
-            this.label3.Text = "ISPN";
+            this.label3.Text = "ISBN";
             // 
             // label4
             // 
@@ -146,6 +146,7 @@
             this.btnReturn.Text = "Add    ";
             this.btnReturn.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btnReturn.UseVisualStyleBackColor = false;
+            this.btnReturn.Click += new System.EventHandler(this.btnReturn_Click);
             // 
             // panel3
             // 

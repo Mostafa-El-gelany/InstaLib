@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Library.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,7 @@ namespace Library
 {
     public partial class Support : Form
     {
+        private readonly Context Context;
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
             (
@@ -27,7 +29,7 @@ namespace Library
         public Support()
         {
             InitializeComponent();
-
+            this.Context = new Context();
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 25, 25));
             PnlNav.Height = BtnAddUser.Height;
             PnlNav.Top = BtnAddUser.Top;
@@ -38,10 +40,11 @@ namespace Library
 
             lblTitle.Text = "Add User";
             this.panel3.Controls.Clear();
-            frmAddUser frmLibrarian_Vrb = new frmAddUser() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            FrmAddUser frmLibrarian_Vrb = new FrmAddUser() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;
             this.panel3.Controls.Add(frmLibrarian_Vrb);
             frmLibrarian_Vrb.Show();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -71,7 +74,7 @@ namespace Library
             PnlNav.BackColor = Color.FromArgb(46, 51, 73);
             lblTitle.Text = "Add User";
             this.panel3.Controls.Clear();
-            frmAddUser frmLibrarian_Vrb = new frmAddUser() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            FrmAddUser frmLibrarian_Vrb = new FrmAddUser() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             frmLibrarian_Vrb.FormBorderStyle = FormBorderStyle.None;
             this.panel3.Controls.Add(frmLibrarian_Vrb);
             frmLibrarian_Vrb.Show();
@@ -100,7 +103,7 @@ namespace Library
         {
             BtnDeleteUser.BackColor = Color.FromArgb(24, 30, 54);
         }
-
+    
         private void btnUpdateUser_Leave(object sender, EventArgs e)
         {
             btnUpdateUser.BackColor = Color.FromArgb(24, 30, 54);
@@ -108,6 +111,7 @@ namespace Library
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Program.CurentUser = null;
             Program.next = new frmLogin();
             this.Close();
         }

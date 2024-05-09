@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Data;
 using System.Linq;
 using System.Text;
@@ -15,7 +16,8 @@ namespace Library.Model
        public string Username {  get; set; }
         public string Password {  get; set; }
         public Rule rule {  get; set; }
-        public List<UserBook> Borrows { get; set; }
+        
+        public virtual  ICollection<UserBook> Borrows { get; set; }
         public User() 
         {
 

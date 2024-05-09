@@ -1,46 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\",
+  "WorkspaceRootPath": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\it\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\it\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\frmlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|D:\\FCI\\Visual programming\\Library-Management-System\\Library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|d:\\fci\\visual programming\\library-management-system\\library\\library\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\librarian\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\librarian\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\migrations\\202405091351147_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\migrations\\202405091351147_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,144 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202405091351147_init.cs",
+              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Migrations\\202405091351147_init.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\202405091351147_init.cs",
+              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Migrations\\202405091351147_init.cs",
+              "RelativeToolTip": "Library\\Migrations\\202405091351147_init.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:36:09.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Support.cs",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Support.cs",
-              "RelativeDocumentMoniker": "Library\\Support.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Support.cs",
-              "RelativeToolTip": "Library\\Support.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAA3wGYAAAAAAAAA",
+              "Title": "frmDeleteUser.cs",
+              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\IT\\frmDeleteUser.cs",
+              "RelativeDocumentMoniker": "Library\\IT\\frmDeleteUser.cs",
+              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\IT\\frmDeleteUser.cs",
+              "RelativeToolTip": "Library\\IT\\frmDeleteUser.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:13:13.002Z",
+              "WhenOpened": "2024-05-09T14:17:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReturn.cs",
+              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Librarian\\frmReturn.cs",
+              "RelativeDocumentMoniker": "Library\\Librarian\\frmReturn.cs",
+              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Librarian\\frmReturn.cs",
+              "RelativeToolTip": "Library\\Librarian\\frmReturn.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:04:11.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Support.cs [Design]",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Support.cs",
-              "RelativeDocumentMoniker": "Library\\Support.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Support.cs [Design]",
-              "RelativeToolTip": "Library\\Support.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:13:11.272Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs",
-              "RelativeDocumentMoniker": "Library\\Manager.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs",
-              "RelativeToolTip": "Library\\Manager.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA3wC8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:13:06.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Manager.cs [Design]",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs",
-              "RelativeDocumentMoniker": "Library\\Manager.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Manager.cs [Design]",
-              "RelativeToolTip": "Library\\Manager.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:13:04.254Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmLibrarian.cs [Design]",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLibrarian.cs",
-              "RelativeDocumentMoniker": "Library\\frmLibrarian.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLibrarian.cs [Design]",
-              "RelativeToolTip": "Library\\frmLibrarian.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:12:58.322Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
-              "RelativeDocumentMoniker": "Library\\Form1.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
-              "RelativeToolTip": "Library\\Form1.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAewKUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:11:42.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs",
-              "RelativeDocumentMoniker": "Library\\Form1.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Form1.cs [Design]",
-              "RelativeToolTip": "Library\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:11:40.289Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Library\\frmLogin.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLogin.cs",
-              "RelativeToolTip": "Library\\frmLogin.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAWwBkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:07:48.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Program.cs",
+              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Program.cs",
               "RelativeDocumentMoniker": "Library\\Program.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\Program.cs",
+              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Program.cs",
               "RelativeToolTip": "Library\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T09:57:46.117Z",
+              "WhenOpened": "2024-05-09T14:00:28.3Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Library\\frmLogin.cs",
-              "ToolTip": "D:\\FCI\\Visual programming\\Library-Management-System\\Library\\Library\\frmLogin.cs [Design]",
-              "RelativeToolTip": "Library\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T09:57:38.453Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

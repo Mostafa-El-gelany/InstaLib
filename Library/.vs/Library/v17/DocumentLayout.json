@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\",
+  "WorkspaceRootPath": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\it\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|c:\\users\\mahmoud\\documents\\my web sites\\library-management-system\\library\\library\\it\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\it\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\librarian\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\library\\librarian\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\librarian\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|f:\\fci\\library management studio\\library-management-system\\library\\library\\migrations\\202405091351147_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\library\\migrations\\202405091351147_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04FE506-178B-4804-B65F-23423457BF16}|Library\\Library.csproj|solutionrelative:library\\migrations\\202405091351147_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,24 +36,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "202405091351147_init.cs",
-              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Migrations\\202405091351147_init.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\Migrations\\202405091351147_init.cs",
               "RelativeDocumentMoniker": "Library\\Migrations\\202405091351147_init.cs",
-              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Migrations\\202405091351147_init.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\Migrations\\202405091351147_init.cs",
               "RelativeToolTip": "Library\\Migrations\\202405091351147_init.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:36:09.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:36:09.034Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmDeleteUser.cs",
-              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\IT\\frmDeleteUser.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\IT\\frmDeleteUser.cs",
               "RelativeDocumentMoniker": "Library\\IT\\frmDeleteUser.cs",
-              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\IT\\frmDeleteUser.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\IT\\frmDeleteUser.cs",
               "RelativeToolTip": "Library\\IT\\frmDeleteUser.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwDwAAAAJAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T14:17:00.083Z",
               "EditorCaption": ""
@@ -62,27 +61,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frmReturn.cs",
-              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Librarian\\frmReturn.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\Librarian\\frmReturn.cs",
               "RelativeDocumentMoniker": "Library\\Librarian\\frmReturn.cs",
-              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Librarian\\frmReturn.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\Librarian\\frmReturn.cs",
               "RelativeToolTip": "Library\\Librarian\\frmReturn.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:04:11.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:04:11.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\Program.cs",
               "RelativeDocumentMoniker": "Library\\Program.cs",
-              "ToolTip": "F:\\FCI\\Library Management studio\\Library-Management-System\\Library\\Library\\Program.cs",
+              "ToolTip": "C:\\Users\\mahmoud\\Documents\\My Web Sites\\Library-Management-System\\Library\\Library\\Program.cs",
               "RelativeToolTip": "Library\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAuwCAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:00:28.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:00:28.3Z"
             }
           ]
         }
